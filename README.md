@@ -1,6 +1,6 @@
-### 👋
 
-**JavaScript 📄**
+
+## **JavaScript 📄**
 
   * 📗 **M**ongodb / mongoose
   
@@ -12,9 +12,7 @@
   
   
   
-⚡📚 Ingeniería en Sistemas, UNAH **-VS**
-
-🇭🇳
+### ⚡📚 Ingeniería en Sistemas, UNAH **-VS**
 
 <!--
 **marcelomrtnz/marcelomrtnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
