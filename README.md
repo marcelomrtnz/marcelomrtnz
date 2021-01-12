@@ -1,5 +1,5 @@
 
-
+<!--
 ## **JavaScript 📄**
 
   * 📗 **M**ongodb / mongoose
@@ -10,7 +10,7 @@
 
   * 📗 **N**odeJS
   
-  
+  -->
   
 ### ⚡📚 Ingeniería en Sistemas, UNAH **-VS**
 
